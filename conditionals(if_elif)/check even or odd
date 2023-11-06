@@ -1,0 +1,6 @@
+x=3
+if x%2==0:#devided by 2 mean it is even
+    print("even")
+else:
+    print("odd")
+      
